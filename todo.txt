@@ -1,0 +1,8 @@
+
+1) get the data machine going.
+  - set up player database and data retrieval...look at Yahoo's free api
+  - get tournament history from fangraphs
+
+2) statistical portion.
+  - compute relevant player statistics
+  - optimize payoff
